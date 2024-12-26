@@ -1,5 +1,3 @@
-# CODTECH-Task1
-
 ## Project Details
 
 - **Name**: Chetan Govind Pawar  
